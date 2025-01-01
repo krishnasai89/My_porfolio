@@ -1,0 +1,34 @@
+.Footer{
+    color: whitesmoke;
+    text-align: center;
+    background: #555353;
+}
+.footer-text{
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    background: #555353;
+}
+.social-icon{
+    display: flex;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    background: #555353;
+}
+.social-icon li{
+    list-style: none;
+    background: #555353;
+}
+.social-icon li a{
+    color: aliceblue;
+    text-decoration: none;
+    background: #555353;
+}
+.footer-col{
+    background: #555353;
+}
+.social-icon li a i{
+    background: #555353;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+}
